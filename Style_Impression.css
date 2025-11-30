@@ -1,0 +1,16 @@
+
+
+nav { display:none;}
+
+
+img {max-width: 100%;height: 300px;width: auto; margin: 10px;}
+
+section {page-break-inside: avoid; break-inside: avoid;}
+figcaption {display: none;}
+
+h1, h2, h3, p, img {margin: 0; padding: 0;}
+
+footer { display:none;}
+
+
+

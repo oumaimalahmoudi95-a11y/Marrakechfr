@@ -1,0 +1,16 @@
+
+nav {background-color: #750426; padding: 5px;}
+
+nav ul {display: flex; justify-content: flex-start; gap: 10px; padding: 0; margin: 0;}
+
+nav li a {color: white; padding: 10px; display: block; border: 1px solid white;}
+
+h1{text-align: center;}
+
+img { display: block; margin: 5px; width: 1200px ; height: 650px; margin: 0 auto;}
+
+figcaption {text-align: center ; margin-bottom: 10px;}
+
+h3 {color:blue ;font-size : 20px}
+
+P{font-size : 18px; margin-bottom: 35px}  
